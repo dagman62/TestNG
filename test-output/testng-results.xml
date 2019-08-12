@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="6" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35" started-at="2019-08-12T03:00:26Z" finished-at="2019-08-12T03:00:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35" started-at="2019-08-12T03:00:26Z" finished-at="2019-08-12T03:00:26Z">
+      <class name="testngpractice.test3">
+        <test-method status="PASS" signature="Demo5()[pri:0, instance:testngpractice.test3@1810399e]" name="Demo5" duration-ms="1" started-at="2019-08-12T03:00:26Z" finished-at="2019-08-12T03:00:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo5 -->
+        <test-method status="PASS" signature="Demo6()[pri:0, instance:testngpractice.test3@1810399e]" name="Demo6" duration-ms="1" started-at="2019-08-12T03:00:26Z" finished-at="2019-08-12T03:00:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo6 -->
+      </class> <!-- testngpractice.test3 -->
+      <class name="testngpractice.test2">
+        <test-method status="PASS" signature="Demo3()[pri:0, instance:testngpractice.test2@5f375618]" name="Demo3" duration-ms="1" started-at="2019-08-12T03:00:26Z" finished-at="2019-08-12T03:00:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo3 -->
+      </class> <!-- testngpractice.test2 -->
+      <class name="testngpractice.test1">
+        <test-method status="PASS" signature="Demo1()[pri:0, instance:testngpractice.test1@50c87b21]" name="Demo1" duration-ms="7" started-at="2019-08-12T03:00:26Z" finished-at="2019-08-12T03:00:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo1 -->
+      </class> <!-- testngpractice.test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
