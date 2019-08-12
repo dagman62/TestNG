@@ -3,3 +3,4 @@ bin
 .classpath
 .project
 SortTable/target
+test-output
